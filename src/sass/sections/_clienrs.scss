@@ -3,6 +3,7 @@
 .clients-list{
         display: flex;
         justify-content: center;
+        
     }
 
     .clients-item{
@@ -12,6 +13,7 @@ border-radius: 8px;
 background: var(--White, #FFF);
 padding-left: 102px;
 padding-right: 133px;
+
     }
     .clients-title{
         width: 189px;
